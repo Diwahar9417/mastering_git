@@ -1,4 +1,5 @@
-## Heyoo everyone, welcome to by guide!
+## Welcome to Git!
 
--"I'm adding this from feature-branch"
+-This is coming from "dev-diwa"
+-I'm adding this from "feature-branch"
 -Yo, Johnny here!
